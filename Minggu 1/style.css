@@ -1,0 +1,18 @@
+nav {
+  background-color: #f8bb13;
+}
+.jumbotron {
+  padding: 6rem;
+  background-color: #f5cb42;
+}
+
+#tentang {
+  padding-top: 2rem;
+}
+#karya {
+  background-color: #f5cb42;
+  padding-top: 2rem;
+}
+footer {
+  background-color: #f8bb13;
+}
